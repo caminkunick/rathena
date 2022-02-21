@@ -1,4 +1,4 @@
-https://github.com/caminkunick/rathena.git# How to create a ready-to-play Ragnarok Online server for as low as low as $5 per month in 30 minutes!
+# How to create a ready-to-play Ragnarok Online server for as low as low as $5 per month in 30 minutes!
 
 How to create a ready-to-play Ragnarok Online server for as low as low as $5 per month in 30 minutes!
 
